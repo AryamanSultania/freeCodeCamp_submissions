@@ -1,5 +1,5 @@
 #World Cup Database
 
-[a relative link](insert_data.sh)
-[a relative link](queries.sh)
-[a relative link](worldcup.sql)
+[insert_data.sh](insert_data.sh)
+[queries.sh](queries.sh)
+[worldcup.sql](worldcup.sql)
