@@ -9,3 +9,7 @@
 
 [salon.sh](salon.sh)
 [salon.sql](salon.sql)
+
+# Periodic Table Database
+[element.sh](element.sh)
+[periodic_table.sql](periodic_table.sql)
