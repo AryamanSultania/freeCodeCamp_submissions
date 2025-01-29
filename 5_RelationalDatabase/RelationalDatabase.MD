@@ -13,3 +13,7 @@
 # Periodic Table Database
 [element.sh](element.sh)
 [periodic_table.sql](periodic_table.sql)
+
+# Number Guessing Game
+[number_guess.sh](number_guess.sh)
+[number_guess.sql](number_guess.sql)
